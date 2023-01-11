@@ -1,4 +1,4 @@
-# ObjectIdentificationWithOpenCV
+# Image Classification with OpenCV
 
 ## Introduction
 
