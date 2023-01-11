@@ -3,6 +3,7 @@
 ## Introduction
 
 In this project, I used OpenCV to build an image classifiction model for differentiating a dataset with 10 labels, including horses, cars, boats, and planes.
+<br></br>
 ![Images of labels](./dataset.jpg)
 
 ## Experiments
